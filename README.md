@@ -23,7 +23,8 @@ script.js   - JavaScript functionality
 image1.png  - Profile image  
 
 ## Live Link
-https://sasankreddyn3-hue.github.io/updated-portfolio/
+https://sasankreddyn3-hue.github.io/updated-day4/
 
 ## Author
 Sasank Reddy N
+
